@@ -1,69 +1,69 @@
 {
-  "name": "@kumarad9/cra-template-avee",
-  "version": "0.0.1",
-  "private": true,
-  "author": "Kumar Adhikari __Avee__",
-  "dependencies": {
-    "@reduxjs/toolkit": "^1.9.2",
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^13.0.0",
-    "@testing-library/user-event": "^13.2.1",
-    "@types/jest": "^27.0.1",
-    "@types/node": "^16.7.13",
-    "@types/react": "^18.0.0",
-    "@types/react-dom": "^18.0.0",
-    "axios": "^1.3.2",
-    "daisyui": "^2.50.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-redux": "^8.0.5",
-    "react-router-dom": "^6.8.0",
-    "react-scripts": "5.0.1",
-    "typescript": "^4.4.2",
-    "web-vitals": "^2.1.0"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "tailwindcss": "^3.2.4"
-  },
-  "description": "CRA template with React TS, tailwindcss, daisyui, react-router-dom, redux-toolkit",
-  "main": "index.tsx",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AveeAd/cra-template-avee.git"
-  },
-  "keywords": [
-    "CRA_template",
-    "typescript_react_template",
-    "tailwindcss_template",
-    "daisyui_template"
-  ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/AveeAd/cra-template-avee/issues"
-  },
-  "homepage": "https://github.com/AveeAd/cra-template-avee#readme"
+	"name": "@kumarad9/cra-template-avee",
+	"version": "0.0.1",
+	"private": false,
+	"author": "Kumar Adhikari __Avee__",
+	"dependencies": {
+		"@reduxjs/toolkit": "^1.9.2",
+		"@testing-library/jest-dom": "^5.14.1",
+		"@testing-library/react": "^13.0.0",
+		"@testing-library/user-event": "^13.2.1",
+		"@types/jest": "^27.0.1",
+		"@types/node": "^16.7.13",
+		"@types/react": "^18.0.0",
+		"@types/react-dom": "^18.0.0",
+		"axios": "^1.3.2",
+		"daisyui": "^2.50.0",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-redux": "^8.0.5",
+		"react-router-dom": "^6.8.0",
+		"react-scripts": "5.0.1",
+		"typescript": "^4.4.2",
+		"web-vitals": "^2.1.0"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": [
+			"react-app",
+			"react-app/jest"
+		]
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"devDependencies": {
+		"tailwindcss": "^3.2.4"
+	},
+	"description": "CRA template with React TS, tailwindcss, daisyui, react-router-dom, redux-toolkit",
+	"main": "index.tsx",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AveeAd/cra-template-avee.git"
+	},
+	"keywords": [
+		"CRA_template",
+		"typescript_react_template",
+		"tailwindcss_template",
+		"daisyui_template"
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/AveeAd/cra-template-avee/issues"
+	},
+	"homepage": "https://github.com/AveeAd/cra-template-avee#readme"
 }
